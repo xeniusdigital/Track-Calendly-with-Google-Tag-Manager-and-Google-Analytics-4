@@ -43,4 +43,4 @@ window.addEventListener('message',
 
 Source:
 https://www.analyticsmania.com/post/how-to-track-calendly-with-google-tag-manager-and-google-analytics-4/
-
+https://intigress.com/blog/tracking/calendly-tracking
